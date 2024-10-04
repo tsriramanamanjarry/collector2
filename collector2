@@ -1,0 +1,17 @@
+package Demo;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
+public class Example {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> c = new ArrayList<Integer>();
+		  
+ c.add(23);
+ 
+ System.out.println(c);
+	}
+
+}
